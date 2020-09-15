@@ -38,33 +38,27 @@
 <br />
 <br />
 
----
+<!-- ---
 
-### 📺 Latest YouTube Videos
+### 📺 Weekly Newsletter (KR)
 
-<!-- YOUTUBE:START -->
 - [FREE Icons! How to use Bootstrap Icons v1.0.0 | Bootstrap 5 (2020)](https://www.youtube.com/watch?v=DPnJldwv22o)
 - [0 to 70K SUBSCRIBERS in 1 YEAR | YouTube 2020: The strategies that helped me to grow on YouTube](https://www.youtube.com/watch?v=oNGZ7h5LR-o)
 - [How To Build A React App w/ Hooks & Airtable API | styled-components | Code Quality Check](https://www.youtube.com/watch?v=FEoEvSmtmPQ)
 - [UPDATE: VS Code July 2020 Stable Release | Settings Sync | Browser Debugging](https://www.youtube.com/watch?v=4adVM33GAlA)
 - [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk)
-<!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [about newsletter, 위클리 호박너구리](https://www.notion.so/Weekly-73afee1667b44bda856824ae8c1eb447) -->
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts (KR)
 
-<!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
-<!-- BLOG-POST-LIST:END -->
+- [Strategy of Platform Company](https://brunch.co.kr/@pumpkin-raccoon/9)
+- [SKT and distruptive innovation](https://brunch.co.kr/@pumpkin-raccoon/7)
+- [Why startup should take care about employee training?](https://brunch.co.kr/@pumpkin-raccoon/4)
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://brunch.co.kr/@pumpkin-raccoon)
 
 
 [website]: https://codeSTACKr.com
